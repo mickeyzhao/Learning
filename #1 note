@@ -1,0 +1,4 @@
+# how to run a .py file 
+# in "terminal"
+# tell the laptop where is the file: cd /Users/zhaoweiqi/Desktop
+# then tpye: python xxxx.py (press return)
